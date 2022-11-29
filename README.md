@@ -1,2 +1,2 @@
 # 1-28-7-game
-game similar to 2048
+Game similar to 2048
